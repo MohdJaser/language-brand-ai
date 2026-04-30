@@ -71,6 +71,8 @@ st.markdown("""
         border-radius: 12px;
         margin: 0.8rem 0;
         box-shadow: 0 2px 12px rgba(26, 115, 232, 0.1);
+        color: #1a1a2e !important;
+    }
     }
 
     /* ── Success Box (Green) ── */
