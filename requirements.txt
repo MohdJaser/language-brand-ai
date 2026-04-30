@@ -1,0 +1,113 @@
+streamlit
+deep-translator
+langdetect
+anthropic
+python-dotenv
+requests
+
+🌍 WEBSITE LOCALIZATION REPORT
+Company: Amazon.com
+Target Language: Arabic (Saudi Arabia)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📌 ORIGINAL TAGLINE:
+"Work hard. Have fun. Make history."
+
+🔄 TRANSLATED:
+"اعمل بجد. استمتع. اصنع التاريخ."
+
+🎯 CULTURALLY ADAPTED:
+"نعمل بشغف، نبتكر بإبداع، نصنع المستقبل"
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📝 HOMEPAGE CONTENT - TRANSLATED
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+[All headings, buttons, product
+descriptions translated to Arabic]
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+⚠️ CULTURAL RECOMMENDATIONS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+- Use right-to-left text direction
+- Avoid certain imagery...
+- Pricing should show SAR currency
+
+
+use .png to explain CULTURAL slogan adapter
+and use "Original tagline(present in .txt)" example as india and USA in english to differentiate
+
+
+#Website localization report(Explanation)
+
+The Big Picture 🌍
+You = BBC India Owner
+Goal = Launch BBC in Japan
+Problem = Don't know Japanese 
+          culture, language, strategy
+Solution = Your tool gives the complete roadmap!
+
+What Each Section Tells You As a Business Owner 💼
+📌 Page Title Translation
+Original: BBC Home - Breaking News, World News...
+Japanese: BBC ホーム - ニュース速報、世界のニュース...
+What it tells you: This is exactly how your website title should appear in Japanese. Copy-paste ready for your Japanese web developer.
+
+📝 Headings & Key Messages
+Lebanon says nearly 400 killed... 
+→ レバノン、イスラエル空爆で400人近くが死亡...
+What it tells you: Every news headline on your website, already translated. Your Japanese editor can use these directly without hiring a translator.
+
+🧭 Navigation Menu
+Home → 家
+Sport → スポーツ
+Technology → テクノロジー
+What it tells you: Your website's menu buttons in Japanese. Tell your developer to replace English labels with these exact words.
+
+🖱️ Buttons & Call to Actions
+Skip to content → コンテンツにスキップ
+Sport → スポーツ
+What it tells you: Every clickable button on your website translated. A Japanese user should never see an English button — this solves that.
+
+📄 Key Content
+"you can smell the burning"
+→ 「焼ける匂いがする」
+What it tells you: Your actual article content translated paragraph by paragraph. Ready to publish directly on your Japanese BBC website.
+
+🤖 AI Cultural Analysis — THE MOST VALUABLE PART 💡
+This is where your tool becomes a real business consultant:
+Cultural Fit Score: 6/10
+Tells you: BBC's current content is 60% suitable
+for Japan. Needs improvement before launching.
+Top 3 Cultural Recommendations:
+1. Add more Japan-specific local news
+   → BBC India covers India news
+   → BBC Japan must cover Japan news too
+
+2. Use formal, respectful language
+   → Japanese culture is very formal
+   → Casual English tone won't work there
+
+3. More visuals & multimedia
+   → Japanese audiences love visual content
+   → Text-heavy pages won't engage them
+Adapted Tagline:
+Instead of direct translation,
+AI rewrote your tagline to feel
+natural and appealing to Japanese people
+Tone Guidelines:
+Tells your content writers exactly HOW
+to write for Japanese audience —
+what words to use, what to avoid
+Market Entry Tips:
+1. Partner with local Japanese media
+   → Don't go alone, find local partners
+
+2. Optimize for mobile
+   → Japan uses phones more than computers
+
+3. Follow Japanese data protection laws
+   → Legal compliance before launching
+
+In One Simple Sentence 💬
+
+Your tool tells a business owner: here is your translated website content, here is how Japanese people think and communicate, here is what you must change, and here is your step-by-step strategy to successfully launch in Japan — all in one report.
