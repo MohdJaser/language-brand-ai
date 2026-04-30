@@ -571,7 +571,11 @@ elif feature == "📊 Website Localization Report":
                     '<div class="result-box">',
                     unsafe_allow_html=True
                 )
-                st.markdown(report["ai_analysis"])
+                st.markdown(
+                    f"<div style='color:#1a1a2e; font-size:15px; "
+                    f"line-height:1.8;'>{report['ai_analysis']}</div>",
+                    unsafe_allow_html=True
+                )
                 st.markdown('</div>', unsafe_allow_html=True)
 
         else:
